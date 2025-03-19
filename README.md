@@ -1,3 +1,9 @@
+## brotoype is doing in this folder path,that is sample/my-app
+
+## mine is just /sample, so dont worry
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
