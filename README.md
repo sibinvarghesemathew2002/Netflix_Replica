@@ -1,7 +1,9 @@
-## brotoype is doing in this folder path,that is sample/my-app
+### brotoype is doing in this folder path,that is sample/my-app
 
-## mine is just /sample, so dont worry
+### mine is just /sample, so dont worry
 
+
+### the api key should be generated and it should be changed in "src\constants\constants.js"
 
 
 # Getting Started with Create React App
